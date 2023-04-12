@@ -64,7 +64,7 @@ json格式数据的清洗，写入csv。
 
 3. 播放评论收藏拟合
 
-   ![image-20230411185131278](C:\Users\Tiny\AppData\Roaming\Typora\typora-user-images\image-20230411185131278.png)
+![image-20230411185131278](C:\Users\Tiny\AppData\Roaming\Typora\typora-user-images\image-20230411185131278.png)
 
 ![image-20230411185256148](C:\Users\Tiny\AppData\Roaming\Typora\typora-user-images\image-20230411185256148.png)
 
